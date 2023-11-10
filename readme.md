@@ -5,6 +5,4 @@
 *  comando git pull
 *  comando git fetch
 
-
-![Logo do R] (http://developer.r-project.org/Logo/Rlogo-5.png)
-  
+![testando](https://media.tenor.com/BB569P_vQz0AAAAd/sonic-sonic-waiting.gif)  
